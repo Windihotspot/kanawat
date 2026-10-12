@@ -136,9 +136,7 @@ onBeforeUnmount(() => {
           </li>
         </ul>
 
-        <a :href="whatsappLink" target="_blank" class="btn-gold hidden md:inline-flex">
-          <i class="fa-brands fa-whatsapp"></i> Book Now
-        </a>
+      
 
         <button class="md:hidden text-2xl text-[#f5d77a]" @click="menuOpen = !menuOpen" aria-label="Menu">
           <i :class="menuOpen ? 'fa-solid fa-xmark' : 'fa-solid fa-bars'"></i>
