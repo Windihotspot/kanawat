@@ -6,7 +6,7 @@ import 'aos/dist/aos.css'
 /* ------------------------------------------------------------------
    ASSETS: change these two filenames to match what is in your assets folder
 ------------------------------------------------------------------- */
-import producerImg from '@/assets/olomson.jpeg'
+import producerImg from '@/assets/kana.jpeg'
 import logoImg from '@/assets/kanawat-logo.jpeg'
 
 /* ------------------------------------------------------------------
